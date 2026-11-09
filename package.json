@@ -244,7 +244,7 @@
     "eslint-plugin-react-hooks": "^5.0.0",
     "i18next": "^23.16.0",
     "i18next-browser-languagedetector": "^8.0.0",
-    "i18next-http-backend": "^2.6.2",
+    "i18next-http-backend": "^4.0.4",
     "i18next-icu": "^2.3.0",
     "ipfs-css": "^1.4.0",
     "ipfsd-ctl": "^15.0.2",
@@ -270,7 +270,7 @@
   "peerDependencies": {
     "i18next": "^23.15.2",
     "i18next-browser-languagedetector": "^8.0.0",
-    "i18next-http-backend": "^2.6.2",
+    "i18next-http-backend": "^4.0.4",
     "i18next-icu": "^2.3.0",
     "ipfs-css": "^1.4.0",
     "react": ">=16.14.0",
